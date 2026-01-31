@@ -492,6 +492,7 @@ html {
 
 .whatsapp-float {
   position: fixed;
+  text-decoration: none;
   bottom: 20px;
   right: 20px;
   background-color: #25D366;
@@ -537,4 +538,5 @@ html {
   ]
 }
 </script>
+
 
