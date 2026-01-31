@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 });
-
+</script>
 // Get the button:
 let mybutton = document.getElementById("myBtn");
 
@@ -129,6 +129,6 @@ function topFunction() {
 }
 
 
-</script>
+
 
 
