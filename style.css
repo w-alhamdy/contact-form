@@ -471,25 +471,11 @@ html {
 }
 
 #myBtn {
-  display: none; 
-  position: fixed; 
-  bottom: 20px; 
-  right: 30px; 
-  z-index: 99; 
-  border: none;
-  outline: none;
-  background-color: red;
-  color: white;
-  cursor: pointer;
-  
-  /* --- FIX FOR SIZE --- */
   width: 50px;        /* Set a fixed width */
   height: 50px;       /* Set a fixed height */
   padding: 0;         /* Remove padding so it doesn't stretch */
   border-radius: 50%; /* This makes it a perfect circle */
   font-size: 15px;    /* Adjust text size to fit */
-  
-  /* Centering the text/arrow inside */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -550,6 +536,7 @@ html {
   ]
 }
 </script>
+
 
 
 
