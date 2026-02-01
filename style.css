@@ -514,6 +514,7 @@ html {
 .center-container {
   text-align: center;
   border-radius: 50%;
+    size: 50%;
   
 }
 
@@ -541,6 +542,7 @@ html {
   ]
 }
 </script>
+
 
 
 
